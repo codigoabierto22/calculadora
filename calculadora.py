@@ -80,9 +80,3 @@ print socio4
 
 
 
-if utilidades < 1000:
-	print "no rompiste el record"
-
-else:
-   print "felicidades vendiste mas"	
-#sacar el total de cobro de comisiones
